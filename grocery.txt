@@ -3,3 +3,6 @@ bread
 milk
 candy
 kinder joy
+chocolate
+ice-cream
+pizza
